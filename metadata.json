@@ -1,0 +1,6 @@
+{
+  "name": "Festival Stand",
+  "description": "한국 대학생을 위한 30초 영어 표현 애니메이션 학습 스튜디오 — 표현 입력부터 스토리보드, 영어 음성·자막 영상 제작 및 퀴즈까지 한 번에 완성합니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
